@@ -110,23 +110,6 @@ The trained Random Forest model predicts whether a new loan applicant is likely 
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/Loan-Approval-Prediction.git
-
-cd Loan-Approval-Prediction
-
-pip install -r requirements.txt
-```
-
----
-
-## Run the Project
-
-```bash
-jupyter notebook
-```
 
 Open:
 
